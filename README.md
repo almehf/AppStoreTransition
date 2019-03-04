@@ -4,4 +4,13 @@
 An attempt to recreate the app store model transition.
 
 
-<a href="https://imgflip.com/gif/2v6y5v"><img src="https://i.imgflip.com/2v6y5v.gif" title="made at imgflip.com"/></a>
+
+
+
+
+ 
+<img src="ezgif.com-video-to-gif.gif" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="" title="" href="" coords="" shape="rect">
+</map>
