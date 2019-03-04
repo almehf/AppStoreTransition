@@ -3,4 +3,4 @@
 
 An attempt to recreate the app store model transition.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/oixeNqd"><a href="//imgur.com/oixeNqd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[![Fibonacci RMI Java EE](https://imgur.com/a/oixeNqd/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
